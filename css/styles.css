@@ -1,1 +1,9 @@
+#button {
+    border: 1px solid black;
+    text-align: center;
+}
 
+#button:hover {
+    color: red;
+    cursor: progress;
+}
